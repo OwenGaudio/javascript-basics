@@ -15,13 +15,13 @@ const myAge = 19
 //Create a variable called lovesCode that is a boolean data type
 
 //Code here
-const lovesCode = True
+const lovesCode = true
 //////////////////PROBLEM 4////////////////////
 
 //Create a variable called greatestFear that is undefined because we fear nothing
 
 //Code here
-const greatestFear
+var greatestFear
 //////////////////PROBLEM 5////////////////////
 
 //Create a variable called devMountainGoal that is null because we are just starting out
@@ -67,7 +67,7 @@ const dog = {
   name: "Maizy",
   color: "Brown",
   age: 1,
-  goodGirl: True
+  goodGirl: true
 }
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
